@@ -1,0 +1,10 @@
+{
+    "total_records": 2,
+    "unique_authors": 1,
+    "top_authors": [
+        [
+            "Author A",
+            2
+        ]
+    ]
+}
